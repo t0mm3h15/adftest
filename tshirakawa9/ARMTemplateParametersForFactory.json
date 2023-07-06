@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "tshirakawa9"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
