@@ -113,7 +113,7 @@
 			]
 		},
 		{
-			"name": "[concat(parameters('factoryName'), '/Binary2')]",
+			"name": "[concat(parameters('factoryName'), '/Binary3')]",
 			"type": "Microsoft.DataFactory/factories/datasets",
 			"apiVersion": "2018-06-01",
 			"properties": {
@@ -126,7 +126,6 @@
 				"typeProperties": {
 					"location": {
 						"type": "AzureBlobStorageLocation",
-						"folderPath": "bbb",
 						"container": "eeee"
 					}
 				}
