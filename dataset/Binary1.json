@@ -10,9 +10,8 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "cc",
-				"folderPath": "bb",
-				"container": "aa"
+				"folderPath": "bbb",
+				"container": "aaa"
 			}
 		}
 	}
