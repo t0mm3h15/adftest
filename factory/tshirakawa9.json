@@ -1,0 +1,9 @@
+{
+	"name": "tshirakawa9",
+	"location": "japaneast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6a3c7cd1-229c-4dc5-9ce7-3ff30e137291",
+		"tenantId": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+	}
+}
